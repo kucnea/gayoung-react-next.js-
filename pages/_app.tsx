@@ -2,7 +2,6 @@ import { AppProps } from 'next/app';
 import Head from 'next/head';
 import Header from './layouts/Header.js';
 import Footer from './layouts/Footer.js';
-import BranchPcMobile from './layouts/BranchPcMobile.js'
 import '../public/styles/minho.css';
 
 const App = ({ Component, pageProps }: AppProps):JSX.Element => {
