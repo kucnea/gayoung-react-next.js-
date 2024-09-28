@@ -39,7 +39,7 @@ export function Ceo() {
                         University of California Santa Barbara Applied Behavior Analysis<br/><br/><br/>
                         
                         <a style={{fontSize:'1.1em', fontWeight:'bold'}}>강의<br/><br/></a>
-                        국제대학교 상담심리치료학과 출강<br/>
+                        국제대학교 상담심리치료학과 외래교수<br/>
                         AMAZON 임직원 대상 - Coping with critical illness<br/>
                         화이자 임직원 강의 - 마음의 병에 대처하는 방법<br/>
                         Emerson 임직원 강의 - 아이를 위한 회복탄력성<br/>
